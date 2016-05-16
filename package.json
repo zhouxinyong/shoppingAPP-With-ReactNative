@@ -1,0 +1,20 @@
+{
+  "name": "shoppingapp",
+  "version": "1.0.0",
+  "description": "a shopping demo with react native",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "xiaozhou",
+  "license": "MIT"
+}
